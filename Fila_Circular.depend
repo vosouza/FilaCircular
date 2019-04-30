@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556631791 source:c:\users\306526\desktop\fila_circular\main.c
+	<stdio.h>
+	"Booleano.h"
+
+1556628791 c:\users\306526\desktop\fila_circular\booleano.h
+
